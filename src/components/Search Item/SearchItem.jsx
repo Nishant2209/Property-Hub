@@ -54,7 +54,7 @@ function SearchItem() {
 
   return (
     <div className="App">
-      <div className="flex justify-between p-10 mx-28">
+      <div className="flex justify-between p-7 mx-28">
         <h1 className="text-3xl font-semibold">Search Properties to rent</h1>
         <div className="headerSearchItem flex flex-row justify-center items-center border-2 border-[#183A1D] px-4 bg-white">
           <input
@@ -80,7 +80,7 @@ function SearchItem() {
         </div>
       </div>
 
-      <div className="flex justify-center p-10 gap-x-10 text-lg items-center bg-white mx-28 border-[#183A1D] border-2">
+      <div className="flex justify-center p-5 gap-x-10 text-lg items-center bg-white mx-28 border-[#183A1D] border-2">
         <div className="border-r-2 border-[#183A1D] pr-4">
           <label htmlFor="type" className="font-semibold">
             Property Type:

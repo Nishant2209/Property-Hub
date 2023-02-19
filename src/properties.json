@@ -1,0 +1,101 @@
+[
+    {
+        "id": 1,
+        "title": "Luxury Villa",
+        "type": "Villa",
+        "price": 2500,
+        "bedrooms": 5,
+        "bathrooms": 2,
+        "sqft": 4500,
+        "image": "https://amazingarchitecture.com/storage/711/Deep-Villa-Atrey-and-Associates-New-Delhi-ndia-Amazing-Architecture-House.jpg",
+        "location": "New York,USA"
+    },
+    {
+        "id": 2,
+        "title": "Ocean View Apartment",
+        "type": "Apartment",
+        "price": 900,
+        "bedrooms": 2,
+        "bathrooms": 1,
+        "sqft": 1200,
+        "image": "https://amazingarchitecture.com/storage/711/Deep-Villa-Atrey-and-Associates-New-Delhi-ndia-Amazing-Architecture-House.jpg",
+        "location": "Texas,USA"
+    },
+    {
+        "id": 3,
+        "title": "Cozy Cottage",
+        "type": "House",
+        "price": 1300,
+        "bedrooms": 1,
+        "bathrooms": 1,
+        "sqft": 800,
+        "image": "https://amazingarchitecture.com/storage/711/Deep-Villa-Atrey-and-Associates-New-Delhi-ndia-Amazing-Architecture-House.jpg",
+        "location": "London, UK"
+    },
+    {
+        "id": 4,
+        "title": "Luxury Villa",
+        "type": "Villa",
+        "price": 2900,
+        "bedrooms": 6,
+        "bathrooms": 3,
+        "sqft": 4200,
+        "image": "https://amazingarchitecture.com/storage/711/Deep-Villa-Atrey-and-Associates-New-Delhi-ndia-Amazing-Architecture-House.jpg",
+        "location": "Delhi, India"
+    },
+    {
+        "id": 5,
+        "title": "Ocean View Apartment",
+        "type": "Apartment",
+        "price": 1200,
+        "bedrooms": 3,
+        "bathrooms": 1,
+        "sqft": 1000,
+        "image": "https://amazingarchitecture.com/storage/711/Deep-Villa-Atrey-and-Associates-New-Delhi-ndia-Amazing-Architecture-House.jpg",
+        "location": "Mumbai, India"
+    },
+    {
+        "id": 6,
+        "title": "Cozy Cottage",
+        "type": "House",
+        "price": 800,
+        "bedrooms": 1,
+        "bathrooms": 1,
+        "sqft": 800,
+        "image": "https://amazingarchitecture.com/storage/711/Deep-Villa-Atrey-and-Associates-New-Delhi-ndia-Amazing-Architecture-House.jpg",
+        "location": "Banglore, India"
+    },
+    {
+        "id": 7,
+        "title": "Luxury Villa",
+        "type": "Villa",
+        "price": 2500,
+        "bedrooms": 5,
+        "bathrooms": 4,
+        "sqft": 4900,
+        "image": "https://amazingarchitecture.com/storage/711/Deep-Villa-Atrey-and-Associates-New-Delhi-ndia-Amazing-Architecture-House.jpg",
+        "location": "Ontario, Canada"
+    },
+    {
+        "id": 8,
+        "title": "Ocean View Apartment",
+        "type": "Apartment",
+        "price": 1200,
+        "bedrooms": 2,
+        "bathrooms": 2,
+        "sqft": 1200,
+        "image": "https://amazingarchitecture.com/storage/711/Deep-Villa-Atrey-and-Associates-New-Delhi-ndia-Amazing-Architecture-House.jpg",
+        "location": "New York,USA"
+    },
+    {
+        "id": 9,
+        "title": "Cozy Cottage",
+        "type": "House",
+        "price": 1200,
+        "bedrooms": 1,
+        "bathrooms": 1,
+        "sqft": 800,
+        "image": "https://amazingarchitecture.com/storage/711/Deep-Villa-Atrey-and-Associates-New-Delhi-ndia-Amazing-Architecture-House.jpg",
+        "location": "Delhi, India"
+    }
+]

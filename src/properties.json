@@ -8,7 +8,7 @@
         "bathrooms": 2,
         "sqft": 4500,
         "image": "https://amazingarchitecture.com/storage/711/Deep-Villa-Atrey-and-Associates-New-Delhi-ndia-Amazing-Architecture-House.jpg",
-        "location": "New York,USA"
+        "location": "New York, USA"
     },
     {
         "id": 2,
@@ -18,8 +18,8 @@
         "bedrooms": 2,
         "bathrooms": 1,
         "sqft": 1200,
-        "image": "https://amazingarchitecture.com/storage/711/Deep-Villa-Atrey-and-Associates-New-Delhi-ndia-Amazing-Architecture-House.jpg",
-        "location": "Texas,USA"
+        "image": "https://media.istockphoto.com/id/1322575582/photo/exterior-view-of-modern-apartment-building-offering-luxury-rental-units-in-silicon-valley.jpg?b=1&s=170667a&w=0&k=20&c=0s6qL5cIMm6LSnryH40h5GmaM6jCi11kchWzsaTJGZE=",
+        "location": "Texas, USA"
     },
     {
         "id": 3,
@@ -29,7 +29,7 @@
         "bedrooms": 1,
         "bathrooms": 1,
         "sqft": 800,
-        "image": "https://amazingarchitecture.com/storage/711/Deep-Villa-Atrey-and-Associates-New-Delhi-ndia-Amazing-Architecture-House.jpg",
+        "image": "https://i.ytimg.com/vi/sLGZlGmGprM/maxresdefault.jpg",
         "location": "London, UK"
     },
     {
@@ -40,18 +40,18 @@
         "bedrooms": 6,
         "bathrooms": 3,
         "sqft": 4200,
-        "image": "https://amazingarchitecture.com/storage/711/Deep-Villa-Atrey-and-Associates-New-Delhi-ndia-Amazing-Architecture-House.jpg",
+        "image": "https://media.istockphoto.com/id/506903162/photo/luxurious-villa-with-pool.jpg?s=612x612&w=0&k=20&c=Ek2P0DQ9nHQero4m9mdDyCVMVq3TLnXigxNPcZbgX2E=",
         "location": "Delhi, India"
     },
     {
         "id": 5,
-        "title": "Ocean View Apartment",
+        "title": "Garden Apartment",
         "type": "Apartment",
         "price": 1200,
         "bedrooms": 3,
         "bathrooms": 1,
         "sqft": 1000,
-        "image": "https://amazingarchitecture.com/storage/711/Deep-Villa-Atrey-and-Associates-New-Delhi-ndia-Amazing-Architecture-House.jpg",
+        "image": "https://thumbs.dreamstime.com/b/apartment-building-modern-buildings-new-westminster-british-columbia-canada-40351928.jpg",
         "location": "Mumbai, India"
     },
     {
@@ -62,29 +62,29 @@
         "bedrooms": 1,
         "bathrooms": 1,
         "sqft": 800,
-        "image": "https://amazingarchitecture.com/storage/711/Deep-Villa-Atrey-and-Associates-New-Delhi-ndia-Amazing-Architecture-House.jpg",
+        "image": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/the-holiday-cottage-airbnb-1-1671622204.jpeg",
         "location": "Banglore, India"
     },
     {
         "id": 7,
-        "title": "Luxury Villa",
+        "title": "Private Villa",
         "type": "Villa",
         "price": 2500,
         "bedrooms": 5,
         "bathrooms": 4,
         "sqft": 4900,
-        "image": "https://amazingarchitecture.com/storage/711/Deep-Villa-Atrey-and-Associates-New-Delhi-ndia-Amazing-Architecture-House.jpg",
+        "image": "https://foyr.com/learn/wp-content/uploads/2019/03/Villa_Mistral-Singapore.jpg",
         "location": "Ontario, Canada"
     },
     {
         "id": 8,
-        "title": "Ocean View Apartment",
+        "title": "Railroad Apartment",
         "type": "Apartment",
         "price": 1200,
         "bedrooms": 2,
         "bathrooms": 2,
         "sqft": 1200,
-        "image": "https://amazingarchitecture.com/storage/711/Deep-Villa-Atrey-and-Associates-New-Delhi-ndia-Amazing-Architecture-House.jpg",
+        "image": "https://teja12.kuikr.com/is/a/c/880x425/public/images/apartments/original_img/k9yqlp.gif",
         "location": "New York,USA"
     },
     {
@@ -95,7 +95,73 @@
         "bedrooms": 1,
         "bathrooms": 1,
         "sqft": 800,
-        "image": "https://amazingarchitecture.com/storage/711/Deep-Villa-Atrey-and-Associates-New-Delhi-ndia-Amazing-Architecture-House.jpg",
+        "image": "https://5.imimg.com/data5/SELLER/Default/2021/2/UN/IJ/CY/25170539/portable-modern-cottage-500x500.jpg",
         "location": "Delhi, India"
+    },
+    {
+        "id": 10,
+        "title": "Private Estates",
+        "type": "Villa",
+        "price": 3000,
+        "bedrooms": 6,
+        "bathrooms": 6,
+        "sqft": 5000,
+        "image": "https://www.amaviacollection.com/wp-content/uploads/2022/05/Villa-Gaia-1-scaled.jpeg",
+        "location": "Paris, France"
+    },
+    {
+        "id": 11,
+        "title": "Railroad Apartment",
+        "type": "Apartment",
+        "price": 1150,
+        "bedrooms": 2,
+        "bathrooms": 1,
+        "sqft": 850,
+        "image": "https://media.istockphoto.com/id/488120139/photo/modern-real-estate.jpg?s=612x612&w=0&k=20&c=88jk1VLSoYboMmLUx173sHs_XrZ9pH21as8lC7WINQs=",
+        "location": "Noida, India"
+    },
+    {
+        "id": 12,
+        "title": "Canadian Cottages",
+        "type": "House",
+        "price": 1200,
+        "bedrooms": 3,
+        "bathrooms": 2,
+        "sqft": 800,
+        "image": "https://cdn.onekindesign.com/wp-content/uploads/2019/08/Contemporary-Lake-House-Northpoint-Custom-Builders-01-1-Kindesign.jpg",
+        "location": "Edmonton, Canada"
+    },
+    {
+        "id": 13,
+        "title": "Luxury Estates",
+        "type": "Villa",
+        "price": 2150,
+        "bedrooms": 6,
+        "bathrooms": 4,
+        "sqft": 3900,
+        "image": "https://gos3.ibcdn.com/55887478619511eca4310a58a9feac02.jpg",
+        "location": "Strasbourg, France"
+    },
+    {
+        "id": 14,
+        "title": "Nordic Cottage Houses",
+        "type": "House",
+        "price": 1500,
+        "bedrooms": 2,
+        "bathrooms": 1,
+        "sqft": 1000,
+        "image": "https://cdn.pixabay.com/photo/2018/04/15/18/14/holiday-house-3322326_1280.jpg",
+        "location": "New Jersey, USA"
+    },
+    {
+        "id": 15,
+        "title": "English Small Cottages",
+        "type": "House",
+        "price": 700,
+        "bedrooms": 1,
+        "bathrooms": 1,
+        "sqft": 650,
+        "image": "https://i.pinimg.com/550x/a2/97/00/a2970064ca035183f5d4a1eaa413098e.jpg",
+        "location": "Marseille, Paris"
     }
 ]

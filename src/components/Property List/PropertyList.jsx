@@ -10,13 +10,13 @@ function PropertyList({ properties }) {
         properties.map((property) => (
           <div
             key={property.id}
-            className="shadow-xl flex flex-col w-96 bg-white text-lg"
+            className="shadow-xl flex flex-col w-[25rem] bg-white text-lg"
           >
             <div>
               <img
                 src={property.image}
                 alt={property.title}
-                className="overflow-hidden w-[420px]"
+                className="overflow-hidden w-[450px] h-[15vw] object-cover"
               />
             </div>
             <div className="p-4 px-6 flex flex-col gap-y-3">

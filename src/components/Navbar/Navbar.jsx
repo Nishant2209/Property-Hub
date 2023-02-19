@@ -11,9 +11,15 @@ function Navbar() {
           </div>
           <div>
             <ul className="flex gap-x-10 font-medium text-xl">
-              <li className="cursor-pointer hover-underline-animation">Buy</li>
-              <li className="cursor-pointer hover-underline-animation">Sell</li>
-              <li className="cursor-pointer hover-underline-animation">Rent</li>
+              <li className="cursor-pointer hover-underline-animation">
+                <a href="/">Buy</a>
+              </li>
+              <li className="cursor-pointer hover-underline-animation">
+                <a href="/">Sell</a>
+              </li>
+              <li className="cursor-pointer hover-underline-animation">
+                <a href="/">Rent</a>
+              </li>
             </ul>
           </div>
         </div>

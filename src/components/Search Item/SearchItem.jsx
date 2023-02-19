@@ -55,7 +55,10 @@ function SearchItem() {
   return (
     <div className="App">
       <div className="flex justify-between p-7 mx-28">
-        <h1 className="text-3xl font-semibold">Search Properties to rent</h1>
+        <div>
+          <h1 className="text-3xl font-semibold">Search Properties to rent</h1>
+          <h2 className="font-medium text-lg mt-2">in India, France, USA, UK, Canada</h2>
+        </div>
         <div className="headerSearchItem flex flex-row justify-center items-center border-2 border-[#183A1D] px-4 bg-white">
           <input
             type="text"

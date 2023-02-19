@@ -39,21 +39,21 @@ function PropertyList({ properties }) {
                 <div className="flex items-center">
                   {" "}
                   <FaBed className="w-6 h-6 mr-2" />{" "}
-                  <p className="text-black text-sm">
+                  <p className="text-black text-xs">
                     {property.bedrooms}{" "}
                     {property.bedrooms === 1 ? "bedroom" : "bedrooms"}
                   </p>
                 </div>
                 <div className="flex items-center border-l-2 border-black pl-2">
                   <TbBath className="w-6 h-6 mr-2" />
-                  <p className="text-black text-sm">
+                  <p className="text-black text-xs">
                     {property.bathrooms}{" "}
                     {property.bathrooms === 1 ? "bathroom" : "bathrooms"}
                   </p>
                 </div>
                 <div className="flex items-center border-l-2 border-black pl-2">
                   <TbChartArea className="w-6 h-6 mr-2" />
-                  <p className="text-black text-sm">
+                  <p className="text-black text-xs">
                     {property.sqft} sqft
                   </p>
                 </div>
